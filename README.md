@@ -11,6 +11,8 @@ This model can classify any SMS/Emails into Spam or Not Spam Message.
 
 # Basic Linux Commands
 
+conda env list
+
 mkdir utils
 touch utils/__init__.py #to treat utility as a package
 touch utils/model.py
