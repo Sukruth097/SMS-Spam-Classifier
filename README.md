@@ -33,6 +33,8 @@ pip freeze > requirements.txt
 
 pip install -r requirements.txt
 
+git clone --
+
 git add . && git commit -m "docstring updated" && git push origin main
 
 git remote -v #shows the remote repository URL
