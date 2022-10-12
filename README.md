@@ -25,7 +25,7 @@ from utils.model import class
 
 touch requirements.txt
 
-conda create -n sagar python==3.8 -y
+conda create -n spam python==3.8 -y
 
 conda activate sagar
 
