@@ -27,7 +27,7 @@ touch requirements.txt
 
 conda create -n spam python==3.8 -y
 
-conda activate sagar
+conda activate venv
 
 pip freeze > requirements.txt
 
